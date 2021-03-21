@@ -1,0 +1,7 @@
+# MVP - should consider proper dependency management
+pytest
+flake8
+fastapi
+requests
+responses
+uvicorn[standard]
